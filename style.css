@@ -1,0 +1,52 @@
+.navcontainer
+{
+  display: flex;
+  background-color: black;
+  margin-top: 10px;
+}
+
+.navitem
+{
+  padding-left: 10px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.none
+{
+  text-decoration: none;
+  color: white;
+}
+
+.headertext
+{
+  color: black;
+  text-align: center;
+  font-size:  75px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: 5px 2px aqua;
+}
+
+.active
+{
+  background-color: white;
+  color: black;
+}
+
+.header
+{
+  text-align: center;
+}
+
+.buttonfield
+{
+  text-align: center;
+  padding: 10px;
+}
+
+.button
+{
+  background-color: black;
+  border-radius: 5px;
+  padding: 5px;
+}
